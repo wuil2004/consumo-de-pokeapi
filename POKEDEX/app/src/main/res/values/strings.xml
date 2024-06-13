@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">POKEDEX</string>
+    <string name="txt_name" />
+    <string name="txt_tiulo">Nombre</string>
+    <string name="txt_titulo">consulta pokedex</string>
+    <string name="txt_pokemon">nombre del pokemon</string>
+    <string name="txt_pokedex">POKEDEX</string>
+    <string name="txt_pokede">POKEDEX</string>
+</resources>
